@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @RomainD13122
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Daniel Romain</h1>
+<h3 align="center">Student at Ynov Aix Campus</h3>
 
-<!---
-RomainD13122/RomainD13122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working on **Learn in Cybersecurity school**
+
+- 🌱 I’m currently learning **Golang **
+
+- 📫 How to reach me **romain.daniel@ynov.com**
+
+
+<p align="left">
+</p>
